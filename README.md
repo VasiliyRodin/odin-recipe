@@ -1,0 +1,1 @@
+This project is to showcase the basic HTML fundamentals I have learned in the previous lessons of the Odin Project. This project will create a basic recipe website. It will conisist of a index.html page and a few links to recipes.
